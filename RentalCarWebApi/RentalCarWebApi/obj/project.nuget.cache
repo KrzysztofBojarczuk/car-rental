@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9TMrlfDLNIA7rvilLpCJeFaCiUg1ZM4iyVr7tYfLU33424xIPlxlsDA7ijzDRHFWRi/AveTYpY8gFvUHBWEu1g==",
+  "dgSpecHash": "FQw9BPkmeKK4MGkHdokW/UY3XlJ2tOzjOj8TvodJ55QiIXCZ92apVGm3Pwb9V5Op1lkJQu4HEJVUAhGMIvr3HQ==",
   "success": true,
   "projectFilePath": "E:\\Projects\\CarRental\\RentalCarWebApi\\RentalCarWebApi\\RentalCarWebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\krzys\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\krzys\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\krzys\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\krzys\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\krzys\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\krzys\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\krzys\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\krzys\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",

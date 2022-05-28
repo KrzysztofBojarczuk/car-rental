@@ -1,6 +1,9 @@
-﻿namespace RentalCarWebApi.AutoMapper
+﻿using AutoMapper;
+
+namespace RentalCarWebApi.AutoMapper
 {
-    public class MappingProfiles
+    public class MappingProfiles : Profile
     {
+        AutoMapper();
     }
 }
