@@ -31,7 +31,7 @@ namespace RentalCarWebApi.Data
 
 
 
-        public DbSet<Car> Car { get; set; }
+        public DbSet<Car> Cars { get; set; }
         public DbSet<Rental> Rentals { get; set; }
         public DbSet<Member> Members { get; set; }
         public DbSet<CarRental> CarRentals { get; set; }

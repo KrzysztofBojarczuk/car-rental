@@ -1,9 +1,15 @@
 ﻿using AutoMapper;
+using RentalCarWebApi.Dtos;
+using RentalCarWebApi.Models;
 
 namespace RentalCarWebApi.AutoMapper
 {
     public class MappingProfiles : Profile
     {
-        AutoMapper();
+        public MappingProfiles()
+        {
+            CreateMap<CarCreateDto,Car>();
+            CreateMap<Car, CarCreateDto>();
+        }
     }
 }
