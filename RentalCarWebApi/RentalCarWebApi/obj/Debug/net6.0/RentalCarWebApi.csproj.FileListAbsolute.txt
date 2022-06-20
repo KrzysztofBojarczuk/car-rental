@@ -59,3 +59,5 @@ E:\Projects\CarRental\RentalCarWebApi\RentalCarWebApi\obj\Debug\net6.0\refint\Re
 E:\Projects\CarRental\RentalCarWebApi\RentalCarWebApi\obj\Debug\net6.0\RentalCarWebApi.pdb
 E:\Projects\CarRental\RentalCarWebApi\RentalCarWebApi\obj\Debug\net6.0\RentalCarWebApi.genruntimeconfig.cache
 E:\Projects\CarRental\RentalCarWebApi\RentalCarWebApi\obj\Debug\net6.0\ref\RentalCarWebApi.dll
+E:\Projects\CarRental\RentalCarWebApi\RentalCarWebApi\bin\Debug\net6.0\AutoMapper.dll
+E:\Projects\CarRental\RentalCarWebApi\RentalCarWebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

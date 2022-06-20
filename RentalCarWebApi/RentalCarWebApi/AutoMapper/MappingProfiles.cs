@@ -9,7 +9,7 @@ namespace RentalCarWebApi.AutoMapper
         public MappingProfiles()
         {
             CreateMap<CarCreateDto,Car>();
-            CreateMap<Car, CarCreateDto>();
+            CreateMap<Car, CarGetDto>();
         }
     }
 }
