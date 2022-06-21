@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using RentalCarWebApi.Dtos;
 using RentalCarWebApi.Models;
+using RentalCarWebApi.Models;
 
 namespace RentalCarWebApi.AutoMapper
 {
@@ -10,6 +11,10 @@ namespace RentalCarWebApi.AutoMapper
         {
             CreateMap<CarCreateDto,Car>();
             CreateMap<Car, CarGetDto>();
+
+
+            CreateMap<MemberCreateDto, Member>();
+            CreateMap<Member, MemberGetDto>();
         }
     }
 }

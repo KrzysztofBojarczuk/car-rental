@@ -16,6 +16,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 
 builder.Services.AddScoped<ICarRepository, CarRepository>();
+builder.Services.AddScoped<IMemberRepository,MemberRepository>();
 
 
 builder.Services.AddDbContext<DataContext>(options =>
